@@ -1,11 +1,10 @@
 <h1 align="center"> Welcome! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> </h1> 
 
-
-
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devmisa&theme=react&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devmisa&theme=react&layout=compact)](https://github.com/devmisa/github-readme-stats)
+<div>
+  <a href="https://github.com/devmisa">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devmisa&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmisa&layout=compact&langs_count=7&theme=react"/>
+</div>
 
 ### Learning Programming Languages
 
