@@ -30,9 +30,6 @@
 
 ### IDEs
 
-<img align="center" alt="VSCode" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" style="max-width:100%;">
-</a> 
-
 <img align="center" alt="IntelliJ" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" style="max-width:100%;">
 </a> 
 
