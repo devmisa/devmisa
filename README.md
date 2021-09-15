@@ -1,4 +1,4 @@
-<h1 align="center"> Bem-vindo! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> </h1> 
+<h1 align="center"> Bem-vindo! <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/joypixels/291/flag-brazil_1f1e7-1f1f7.png" width="30px"> </h1> 
 
 <div>
   <a href="https://github.com/devmisa">
