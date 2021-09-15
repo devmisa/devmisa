@@ -6,7 +6,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmisa&layout=compact&langs_count=7&theme=react"/>
 </div>
 
-### Linguagens em aprendizagem:
+### Linguagens que estou em aprendizagem:
 
 <div>
 <img align="center" alt="MySQL" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" style="max-width:100%;">
@@ -25,6 +25,8 @@
 <img align="center" alt="CSS3" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="max-width:100%;">
 </a> 
 
+<img align="center" alt="Git" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="max-width:100%;">
+</a> 
 
 ### Redes sociais
 
