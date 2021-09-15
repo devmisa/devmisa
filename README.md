@@ -1,4 +1,4 @@
-<h1 align="center"> Welcome! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> </h1> 
+<h1 align="center"> Bem-vindo! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> </h1> 
 
 <div>
   <a href="https://github.com/devmisa">
@@ -6,7 +6,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmisa&layout=compact&langs_count=7&theme=react"/>
 </div>
 
-### Learning Programming Languages
+### Linguagens em aprendizagem:
 
 <div>
 <img align="center" alt="MySQL" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" style="max-width:100%;">
@@ -17,7 +17,7 @@
 </a>
 <img align="center" alt="Python" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" style="max-width:100%;">
 
-### Personal Experience
+### Experiências pessoais com:
 
 <img align="center" alt="HTML5" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="max-width:100%;">
 </a> 
@@ -26,7 +26,7 @@
 </a> 
 
 
-### Social Media
+### Redes sociais
 
 <div>
   
