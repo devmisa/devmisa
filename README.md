@@ -10,31 +10,27 @@
 
 <div>
 <img align="center" alt="MySQL" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" style="max-width:100%;">
-</a>  
 <img align="center" alt="Java" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" style="max-width:100%;">
-</a>
 <img align="center" alt="CSharp" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" style="max-width:100%;">
-</a>
 <img align="center" alt="Python" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" style="max-width:100%;">
 
 ## Experiências pessoais com:
 
 <img align="center" alt="HTML5" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="max-width:100%;">
-</a> 
 
 <img align="center" alt="CSS3" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="max-width:100%;">
-</a> 
 
 <img align="center" alt="Git" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="max-width:100%;">
-</a> 
+
 
 ### IDEs
 
 <img align="center" alt="IntelliJ" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" style="max-width:100%;">
-</a> 
+  
+<img align="center" alt="Eclipse" height="50" width="50" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/eclipse_94656.png" style="max-width:100%;">
 
 <img align="center" alt="VSCode" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" style="max-width:100%;">
-</a> 
+
 
 ## Redes sociais
 
