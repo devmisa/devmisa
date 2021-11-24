@@ -6,7 +6,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmisa&layout=compact&langs_count=7&theme=react"/>
 </div>
 
-## Linguagens que estou em aprendizagem:
+## Linguagens que estou em aprendizado:
 
 <div>
 <img align="center" alt="MySQL" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" style="max-width:100%;">
