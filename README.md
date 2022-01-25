@@ -26,7 +26,7 @@
 
 <img align="center" alt="IntelliJ" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" style="max-width:100%;">
 <img align="center" alt="Eclipse" height="50" width="50" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/eclipse_94656.png" style="max-width:100%;">
-<img align="center" alt="VSCode" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" style="max-width:100%;">
+<img align="center" alt="VStudio" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" style="max-width:100%;">
 
 
 ## Redes sociais
