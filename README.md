@@ -12,7 +12,6 @@
 <img align="center" alt="MySQL" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" style="max-width:100%;">
 <img align="center" alt="Java" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" style="max-width:100%;">
 <img align="center" alt="CSharp" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" style="max-width:100%;">
-<img align="center" alt="Python" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" style="max-width:100%;">
 <img align="center" alt="Golang" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" style="max-width:100%;">
 
 
