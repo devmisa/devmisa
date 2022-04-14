@@ -35,7 +35,7 @@
 </ul>  
     
 
-### IDEs
+## IDEs:
 <ul>
 <li> <img align="center" alt="IntelliJ" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" style="max-width:100%;"> IntelliJ </li>  
 <li> <img align="center" alt="Eclipse" height="45" width="45" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/eclipse_94656.png" style="max-width:100%;"> Eclipse </li>  
