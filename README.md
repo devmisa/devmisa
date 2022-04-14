@@ -40,7 +40,9 @@
 <li> <img align="center" alt="IntelliJ" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" style="max-width:100%;"> IntelliJ </li>  
 <li> <img align="center" alt="Eclipse" height="45" width="45" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/eclipse_94656.png" style="max-width:100%;"> Eclipse </li>  
 <li> <img align="center" alt="VStudio" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" style="max-width:100%;"> Visual Studio </li>  
-</ul>    
+<li> <img align="center" alt"VSCode" height="45" width"45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png?20210804221519" style="max-width:100%;"> Visual Studio Code </li>      
+</ul> 
+    
 
 
 ## LinkedIn
