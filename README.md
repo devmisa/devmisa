@@ -20,7 +20,7 @@
 <ul>    
 <li> <img align="center" alt="MySQL" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" style="max-width:100%;"> MySQL </li>
 <li> <img align="center" alt="CSharp" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" style="max-width:100%;"> CSharp </li>
-<li> <img align="center" alt="Java" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" style="max-width:100%;"> Java </li>
+<li> <img align="center" alt="Angular" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" style="max-width:100%;"> Angular </li>
 </ul>      
   
 ## Experiências em campo:
