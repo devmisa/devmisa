@@ -30,7 +30,7 @@
 <li> <img align="center" alt="DotNetCore" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" style="max-width:100%"> .NET Core </li>  
 <li> <img align="center" alt="CSharp" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" style="max-width:100%;"> CSharp </li>  
 <li> <img align="center" alt="PostgreSQL" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="max-width:100%;"> PostgreSQL </li> 
-<li> <img align="center" alt="VStudio" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" style="max-width:100%;"> Visual Studio </li>  
+
 
 </ul>  
     
