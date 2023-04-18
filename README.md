@@ -4,7 +4,7 @@
 
 <hr>
 
-<h1 align="center"> Welcome! <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/joypixels/291/flag-brazil_1f1e7-1f1f7.png" width="30px"> </h1> 
+<h1 align="center"> Welcome!</h1> 
 
 ```
                                     "Your life is an algorithm, your brain is an operating system" 
