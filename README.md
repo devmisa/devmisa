@@ -19,6 +19,7 @@
 <ul>    
 <!--<li> <img align="center" alt="PostgreSQL" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="max-width:100%;"> PostgreSQL </li>-->
 <li> <img align="center" alt="CSharp" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" style="max-width:100%;"> CSharp </li> 
+<li> <img align="center" alt="dotNET" height="45" width="45" src="https://www.svgrepo.com/show/376369/dotnet.svg" style="max-width:100%;"> dotNET </li> 
 <li> <img align="center" alt="Angular" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" style="max-width:100%;"> Angular </li>
 <li> <img align="center" alt="TypeScript" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="max-width:100%;"> TypeScript </li>
 </ul>      
@@ -29,6 +30,7 @@
 <li> <img align="center" alt="Azure DevOps" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" style="max-width:100%"> Azure DevOps </li>
 <li> <img align="center" alt="Angular" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" style="max-width:100%"> Angular </li>  
 <li> <img align="center" alt="CSharp" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" style="max-width:100%;"> CSharp </li>  
+<li> <img align="center" alt="dotNET" height="45" width="45" src="https://www.svgrepo.com/show/376369/dotnet.svg" style="max-width:100%;"> dotNET </li> 
 <li> <img align="center" alt="PostgreSQL" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="max-width:100%;"> PostgreSQL </li> 
 <li> <img align="center" alt="AWS" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" style="max-width:100%;"> AWS </li> 
 
