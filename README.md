@@ -9,11 +9,6 @@
 ```
                                     "Your life is an algorithm, your brain is an operating system" 
 ``` 
-  
-  <a href="https://github.com/devmisa">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devmisa&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmisa&layout=compact&langs_count=7&theme=react"/>
-    
 
 ## Technologies I'm currently studying:
 <ul>    
