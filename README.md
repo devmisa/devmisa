@@ -10,17 +10,7 @@
                                     "Your life is an algorithm, your brain is an operating system" 
 ``` 
 
-## Technologies I'm currently studying:
-<ul>    
-<!--<li> <img align="center" alt="PostgreSQL" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="max-width:100%;"> PostgreSQL </li>-->
-<li> <img align="center" alt="CSharp" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" style="max-width:100%;"> CSharp </li> 
-<li> <img align="center" alt="dotNET" height="45" width="45" src="https://www.svgrepo.com/show/376369/dotnet.svg" style="max-width:100%;"> dotNET </li> 
-<li> <img align="center" alt="Angular" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" style="max-width:100%;"> Angular </li>
-<li> <img align="center" alt="TypeScript" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="max-width:100%;"> TypeScript </li>
-</ul>      
-  
 ## Field experiences:
- 
 <ul>
 <li> <img align="center" alt="Azure DevOps" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" style="max-width:100%"> Azure DevOps </li>
 <li> <img align="center" alt="Angular" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" style="max-width:100%"> Angular </li>  
@@ -28,22 +18,16 @@
 <li> <img align="center" alt="dotNET" height="45" width="45" src="https://www.svgrepo.com/show/376369/dotnet.svg" style="max-width:100%;"> dotNET </li> 
 <li> <img align="center" alt="PostgreSQL" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="max-width:100%;"> PostgreSQL </li> 
 <li> <img align="center" alt="AWS" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" style="max-width:100%;"> AWS </li> 
-
-
-
+<li> <img align="center" alt="Datadog" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/datadog/datadog-original-wordmark.svg" style="max-width:100%;"> Datadog </li> 
+<li> <img align="center" alt="RabbitMQ" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" style="max-width:100%;"> RabbitMQ </li> 
 </ul>  
     
-
 ## IDEs:
-
 <li> <img align="center" alt="VStudio" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" style="max-width:100%;"> Visual Studio </li>  
 <li> <img align="center" alt"VSCode" height="45" width"45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png?20210804221519" style="max-width:100%;"> Visual Studio Code </li>      
 </ul> 
     
-
-
 ## LinkedIn
-  
 <a href="https://www.linkedin.com/in/misaellaracampos" target="_blank">
 <img align="center" alt="misael-linkedin" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="max-width:100%;">
 </a>
