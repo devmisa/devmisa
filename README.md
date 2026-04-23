@@ -24,7 +24,7 @@
     
 ## IDEs:
 <li> <img align="center" alt="VStudio" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" style="max-width:100%;"> Visual Studio </li>  
-<li> <img align="center" alt"VSCode" height="45" width"45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png?20210804221519" style="max-width:100%;"> Visual Studio Code </li>      
+<li> <img align="center" alt="VSCode" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" style="max-width:100%;"> Visual Studio Code </li>      
 </ul> 
     
 ## LinkedIn
