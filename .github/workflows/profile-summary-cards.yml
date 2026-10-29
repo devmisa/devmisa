@@ -1,0 +1,19 @@
+name: GitHub Profile Summary Cards
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"   # atualiza a cada 12h
+  workflow_dispatch:          # permite rodar manualmente
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.PROFILE_TOKEN }}   # PAT com escopos repo + read:user (inclui contribuições privadas)
+        with:
+          USERNAME: ${{ github.repository_owner }}
